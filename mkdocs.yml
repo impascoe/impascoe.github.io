@@ -1,7 +1,11 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 site_name: My Docs
-site_url: https://impascoe.github.io
+site_url: https://github.com/impascoe/impascoe.github.io
+
+repo_name: impascoe/impascoe.github.io
+repo_url: https://github.com/impascoe/impascoe.github.io
+
 theme:
   name: material
   palette:
