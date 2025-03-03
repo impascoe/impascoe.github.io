@@ -1,9 +1,17 @@
 site_name: My Docs
+site_url: https://impascoe.github.io/
+
+repo_name: IMPascoe
+repo_url: https://github.com/impascoe/
 
 theme:
   name: material
   palette:
     scheme: slate
+    primary: black
   font:
     text: Roboto
     code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tabs
