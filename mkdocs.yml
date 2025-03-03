@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: My Docs
+site_url: https://impascoe.github.io
+theme:
+  name: material
+  palette:
+    scheme: slate
+  font:
+    text: Roboto
+    code: Roboto Mono
