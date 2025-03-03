@@ -1,21 +1,31 @@
 ---
 title: Home
+hide:
+  - navigation
+  - toc
 ---
 
-# Welcome to MkDocs
+## Front-End Developer | Computer Science Student
+### Welcome to my portfolio!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I'm a front-end developer with expertise in React.js, CSS frameworks, and a variety of programming languages.
+Currently studying Computer Science at Curtin University while working on freelance web development projects.
 
-## Commands
+---
+### Skills Highlight
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- **Front-End**: React.js, Bootstrap, TailwindCSS
+- **Languages**: JavaScript, TypeScript, Go, Python, Java, Kotlin, Zig
+- **Web Development**: Full-stack applications, API integration
+- **Systems**: Linux System Administration
+- **Other**: Time Management, Problem Solving
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Contact Information
+Feel free to reach out to me at:
+
+- **Email**: [isaacmpascoe@gmail.com](mailto:isaacmpascoe@gmail.com)
+- **LinkedIn**: [Isaac Pascoe](https://www.linkedin.com/in/impascoe/)
+
+Feel free to reach out for collaborations or opportunities!
