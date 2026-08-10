@@ -1,76 +1,47 @@
 ---
-title: About Me
-hide:
-  - navigation
-  - toc
+title: About
 ---
 
-# About Me
+# About Myself
 
-## Hey, I'm Isaac!
+I am a Computer Science student at Curtin University and a front-end developer. My work spans React interfaces, API-backed web applications, data-oriented tools, and programming-language experiments.
 
-I'm a front-end developer and Computer Science student with a passion for building web applications and exploring diverse programming languages.
-I specialize in React.js development and enjoy working with modern CSS frameworks like Bootstrap and TailwindCSS.
+## How I work
 
----
+I build the user-facing layer of applications, then work across the surrounding system when a project requires it. That includes API integration, data storage, configuration, and deployment-oriented tooling. I also use personal projects to study language design, parsing, compilers, and Linux systems.
 
-## Professional Background
+## Technical focus
 
-As a freelance web developer since December 2022, I've:
+<div class="grid cards" markdown>
 
-- Collaborated on developing an online will-producing website with a Golang API connected to a back-end database
-- Built an online web application tracking donations of Australian charitable organizations using a Python-based API connected to a NoSQL database
-- Focused on creating responsive, user-friendly interfaces with React.js and CSS frameworks like Bootstrap and TailwindCSS
+-   **Front-end development**
 
----
+    React, TypeScript, JavaScript, Bootstrap, Tailwind CSS, and responsive web design.
 
-## Education
+-   **Application development**
 
-**Bachelor of Computing, Computer Science** <br />
-Curtin University (2023 - Present)
+    Python and Go APIs, databases, authentication, data visualisation, and full-stack web applications.
 
-**Western Australian Certificate of Education** <br />
-Como Secondary College (2017 - 2022)
+-   **Systems and language tooling**
 
----
+    Zig, C/C++, Java, Kotlin, Linux administration, parsers, abstract syntax trees, and command-line tools.
 
-## Certifications
+</div>
 
-- :simple-redhat: Red Hat System Administration I (RH124) Certificate
+## Experience
 
----
+Since December 2022, I have worked as a freelance web developer. This has included collaboration on an online will-producing application with a Go API and database, and an application for tracking donations to Australian charitable organisations through a Python API and NoSQL database.
 
-## Technical Skills
+## Education and certification
 
-### Programming Languages
-- :simple-javascript: JavaScript/TypeScript
-- :fontawesome-brands-golang: Go (Golang)
-- :simple-cplusplus: C/C++
-- :simple-python: Python
-- :fontawesome-brands-java: Java
-- :simple-kotlin: Kotlin
-- :simple-zig: Zig
+- **Bachelor of Computing, Computer Science**, Curtin University, 2023 to present
+- **Western Australian Certificate of Education**, Como Secondary College, 2017 to 2022
+- **Red Hat System Administration I (RH124)** certificate
 
+## Contact
 
+- Email: [isaacmpascoe@gmail.com](mailto:isaacmpascoe@gmail.com)
+- LinkedIn: [linkedin.com/in/impascoe](https://www.linkedin.com/in/impascoe/)
+- GitHub: [github.com/impascoe](https://github.com/impascoe)
 
-### Front-End Development
-- :simple-react: React.js
-- :simple-bootstrap: Bootstrap CSS
-- :simple-tailwindcss: TailwindCSS
-- :material-responsive: Responsive web design
-
-### Additional Skills
-- :simple-linux: Linux System Administration
-- :material-api: API Development & Integration
-- :material-application: Full-stack web applications
-- :material-clock-time-two: Time Management
-
----
-
-## Contact Information
-
-**Email:** [isaacmpascoe@gmail.com](mailto:isaacmpascoe@gmail.com)
-
-**LinkedIn:** [impascoe](https://www.linkedin.com/in/impascoe/)
-
-**GitHub:** [impascoe](https://github.com/impascoe)
+[See the project reports](projects/){ .md-button .md-button--primary }

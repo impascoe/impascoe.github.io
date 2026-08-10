@@ -1,0 +1,123 @@
+:root > * {
+  --md-primary-fg-color: #ffb923;
+  --md-primary-fg-color--light: #ffda7a;
+  --md-primary-fg-color--dark: #b87800;
+  --md-accent-fg-color: #ffb923;
+  --portfolio-accent: #ffb923;
+}
+
+.md-header,
+.md-tabs {
+  -webkit-backdrop-filter: blur(1rem) saturate(160%);
+  backdrop-filter: blur(1rem) saturate(160%);
+  border-bottom: 1px solid transparent;
+  box-shadow: none;
+}
+
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="default"] .md-tabs {
+  background-color: rgba(255, 255, 255, 0.78);
+  border-bottom-color: rgba(15, 23, 42, 0.1);
+  color: #0f172a;
+}
+
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+  background-color: var(--md-default-bg-color);
+  background-color: color-mix(
+    in srgb,
+    var(--md-default-bg-color) 78%,
+    transparent
+  );
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+  color: #f8fafc;
+}
+
+.md-grid {
+  max-width: 1180px;
+}
+
+.portfolio-hero {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: center;
+  padding: 2rem 0 2.5rem;
+}
+
+.portfolio-logo {
+  width: 7rem;
+  height: 7rem;
+}
+
+.portfolio-logo--light {
+  display: none;
+}
+
+.portfolio-kicker {
+  margin: 0 0 0.5rem;
+  color: var(--portfolio-accent);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.portfolio-hero h1 {
+  margin: 0;
+  font-weight: 700;
+}
+
+.portfolio-lead {
+  max-width: 44rem;
+  margin: 0.75rem 0 0;
+  font-size: 1.15rem;
+}
+
+.portfolio-actions {
+  margin-top: 1.5rem;
+}
+
+.portfolio-actions .md-button {
+  margin: 0 0.5rem 0.5rem 0;
+}
+
+.md-typeset .grid.cards > ul > li {
+  border-radius: 0.5rem;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--portfolio-accent);
+}
+
+.md-header__button.md-logo img,
+.md-nav__button.md-logo img {
+  width: 2rem;
+  height: 2rem;
+}
+
+[data-md-color-scheme="slate"] .portfolio-logo--dark {
+  display: none;
+}
+
+[data-md-color-scheme="slate"] .portfolio-logo--light {
+  display: block;
+}
+
+[data-md-color-scheme="slate"] .md-header__button.md-logo img,
+[data-md-color-scheme="slate"] .md-nav__button.md-logo img {
+  content: url("../assets/logo-white.svg");
+}
+
+@media screen and (max-width: 44.9375em) {
+  .portfolio-hero {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding-top: 1rem;
+  }
+
+  .portfolio-logo {
+    width: 5rem;
+    height: 5rem;
+  }
+}
