@@ -6,7 +6,7 @@ title: WeatherWise CLI
 
 [Repository: impascoe/weatherwise-cli](https://github.com/impascoe/weatherwise-cli)
 
-A university weather-data and analysis project that combines API data, notebook-based exploration, visualisation, and AI-assisted development workflows.
+A Python project for retrieving current weather data. Its working material also covers notebook-based exploration, visualisation, and optional local AI tooling.
 
 ## Stack
 
@@ -18,7 +18,7 @@ A university weather-data and analysis project that combines API data, notebook-
 
 ## Functional scope
 
-The project includes a ready-to-run `starter_notebook.ipynb` for iterative work, weather-data retrieval through OpenWeatherMap, and Plotly visualisation support. Its repository also includes assignment guidance, AI conversation transcripts, and a written reflection area.
+The project includes a ready-to-run `starter_notebook.ipynb`, weather-data retrieval through OpenWeatherMap, and Plotly visualisation support. Its repository also includes assignment guidance, AI conversation transcripts, and a written reflection area.
 
 ## Typical workflow
 

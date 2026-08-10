@@ -11,9 +11,13 @@ nav = [
   { "About" = "about.md" },
   { "Projects" = [
     "projects/index.md",
-    { "5A Scholarly Search" = "projects/scholarly-search.md" },
+    { "The Growth Exponent" = "projects/the-growth-exponent.md" },
+    { "ZipChip" = "projects/zipchip.md" },
     { "Zirconium" = "projects/zirconium.md" },
+    { "pashion" = "projects/pashion.md" },
+    { "Scholarly Searcher" = "projects/scholarly-search.md" },
     { "WeatherWise CLI" = "projects/weatherwise.md" },
+    { "sudoku-solver" = "projects/sudoku-solver.md" },
     { "Client web applications" = "projects/client-web-applications.md" },
     { "Smash Return" = "projects/smash-return.md" },
     { "ZMM 2.0" = "projects/zmm-2.md" },
@@ -21,6 +25,7 @@ nav = [
   ] },
   { "Contact" = "contact.md" },
   { "GitHub" = "https://github.com/impascoe" },
+  { "Pascalax" = "https://www.pascalax.com/" },
 ]
 copyright = """
   &copy; 2025 Isaac Pascoe ·

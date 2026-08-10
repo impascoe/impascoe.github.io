@@ -19,7 +19,7 @@ hide:
 
 # Isaac Pascoe
 
-<p class="portfolio-lead">I build web applications, work with APIs and data, and explore systems programming through language tooling and compilers.</p>
+<p class="portfolio-lead">Computer Science graduate, front-end developer, and systems programming enthusiast. I build React and Next.js sites, developer tools, Python data applications, C utilities, and Zig experiments.</p>
 
 <div class="portfolio-actions" markdown>
 
@@ -35,23 +35,23 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-monitor-dashboard:{ .lg .middle } **Web applications**
+-   :material-web:{ .lg .middle } **Web platforms**
 
     ---
 
-    Front-end work with React, TypeScript, responsive CSS, and interfaces that make complex tasks easier to use.
+    React, Next.js, TypeScript, Tailwind CSS, Bootstrap, Vite, analytics integrations, and static-site deployment.
 
--   :material-api:{ .lg .middle } **Full-stack systems**
-
-    ---
-
-    API-backed applications using Python and Go, with database integration, authentication, and environment-based configuration.
-
--   :material-console-line:{ .lg .middle } **Programming tools**
+-   :material-server:{ .lg .middle } **Back ends and data**
 
     ---
 
-    Experiments in Zig, compilers, command-line tools, and the design of parsers, abstract syntax trees, and diagnostics.
+    Python, Flask, Node.js, Serverless, AWS, Docker, document processing, data analysis, and applied machine learning.
+
+-   :material-console-line:{ .lg .middle } **Systems tools**
+
+    ---
+
+    Zig and C projects covering emulators, parsers, shells, command-line tools, and language experiments.
 
 </div>
 
@@ -59,29 +59,29 @@ hide:
 
 <div class="grid cards" markdown>
 
--   **5A Scholarly Search**
+-   **The Growth Exponent**
 
     ---
 
-    A scholarly-document search platform with a Flask API, React and TypeScript interface, PDF processing, and visualisation tooling.
+    A public Next.js site for a growth engineering and digital platforms business. Its source repository is private.
 
-    [Read the project report](projects/scholarly-search/)
+    [Read the project report](projects/the-growth-exponent/)
+
+-   **ZipChip**
+
+    ---
+
+    A CHIP-8 emulator in Zig with rendering, audio, timing, controls, and opcode implementation.
+
+    [Read the project report](projects/zipchip/)
 
 -   **Zirconium**
 
     ---
 
-    An experimental language implemented in Zig, covering tokenisation, parsing, AST construction, CLI output, and parser tests.
+    An experimental Zig language with a tokenizer, parser, abstract syntax tree output, and parser tests.
 
     [Read the project report](projects/zirconium/)
-
--   **WeatherWise CLI**
-
-    ---
-
-    A weather-data analysis project using Python, OpenWeatherMap, Jupyter, Plotly, and optional local AI tooling.
-
-    [Read the project report](projects/weatherwise/)
 
 </div>
 

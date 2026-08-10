@@ -1,10 +1,12 @@
 ---
-title: 5A Scholarly Search
+title: Scholarly Searcher
 ---
 
-# 5A Scholarly Search
+# Scholarly Searcher
 
-A university scholarly-database and search platform for managing and analysing academic papers and research data.
+[Repository: impascoe/scholarly-searcher](https://github.com/impascoe/scholarly-searcher)
+
+A Flask dashboard for managing and analysing academic papers and research data.
 
 ## Technical approach
 
@@ -20,4 +22,4 @@ The application provides a web interface for browsing and searching academic doc
 
 ## Engineering focus
 
-The project uses separate Python and JavaScript dependency-management workflows. That structure keeps the Flask service and React interface independently reproducible while they work together as one application.
+Python and JavaScript dependencies are managed separately. The Flask service and React interface can therefore be installed and run through their own package workflows.

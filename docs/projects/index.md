@@ -4,27 +4,51 @@ title: Projects
 
 # Project reports
 
-These reports cover application development, data tooling, mobile work, and language tooling. Each page records the project’s purpose, technical approach, and current scope.
+This index covers public repositories, private-source client work, university work, and personal systems experiments. Each report records the project’s purpose, stack, and working scope.
 
 <div class="grid cards" markdown>
 
--   **5A Scholarly Search**
+-   **The Growth Exponent**
 
-    Flask, React, TypeScript, PDF processing, and data visualisation.
+    Next.js business website with analytics and CRM integrations. Source is private.
 
-    [Read report](scholarly-search/)
+    [Read report](the-growth-exponent/)
+
+-   **ZipChip**
+
+    CHIP-8 emulator in Zig with rendering, audio, timing, controls, and opcode work.
+
+    [Read report](zipchip/)
 
 -   **Zirconium**
 
-    A pre-alpha language in Zig with a tokenizer, parser, AST, CLI, and tests.
+    Pre-alpha Zig language with a tokenizer, parser, AST, CLI, and tests.
 
     [Read report](zirconium/)
 
+-   **pashion**
+
+    Experimental Zig shell with built-ins and `PATH`-based external command execution.
+
+    [Read report](pashion/)
+
+-   **Scholarly Searcher**
+
+    Flask dashboard for academic-paper management and analysis.
+
+    [Read report](scholarly-search/)
+
 -   **WeatherWise CLI**
 
-    Weather-data retrieval and exploration with Python, Jupyter, OpenWeatherMap, and Plotly.
+    Python project for retrieving and exploring weather data.
 
     [Read report](weatherwise/)
+
+-   **sudoku-solver**
+
+    C command-line validator for Sudoku solutions.
+
+    [Read report](sudoku-solver/)
 
 -   **Client web applications**
 
@@ -34,13 +58,13 @@ These reports cover application development, data tooling, mobile work, and lang
 
 -   **Smash Return**
 
-    An Android idle-game project in Kotlin.
+    Android idle-game project in Kotlin.
 
     [Read report](smash-return/)
 
 -   **ZMM 2.0**
 
-    An archived educational C compiler written in Zig.
+    Archived educational C compiler written in Zig.
 
     [Read report](zmm-2/)
 
