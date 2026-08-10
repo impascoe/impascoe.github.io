@@ -12,66 +12,66 @@ This index covers public repositories, private-source client work, university wo
 
     Next.js business website with analytics and CRM integrations. Source is private.
 
-    [Read report](the-growth-exponent/)
+    [Learn more](the-growth-exponent/)
 
 -   **ZipChip**
 
     CHIP-8 emulator in Zig with rendering, audio, timing, controls, and opcode work.
 
-    [Read report](zipchip/)
+    [Learn more](zipchip/)
 
 -   **Zirconium**
 
     Pre-alpha Zig language with a tokenizer, parser, AST, CLI, and tests.
 
-    [Read report](zirconium/)
+    [Learn more](zirconium/)
 
 -   **pashion**
 
     Experimental Zig shell with built-ins and `PATH`-based external command execution.
 
-    [Read report](pashion/)
+    [Learn more](pashion/)
 
 -   **Scholarly Searcher**
 
     Flask dashboard for academic-paper management and analysis.
 
-    [Read report](scholarly-search/)
+    [Learn more](scholarly-search/)
 
 -   **WeatherWise CLI**
 
     Python project for retrieving and exploring weather data.
 
-    [Read report](weatherwise/)
+    [Learn more](weatherwise/)
 
 -   **sudoku-solver**
 
     C command-line validator for Sudoku solutions.
 
-    [Read report](sudoku-solver/)
+    [Learn more](sudoku-solver/)
 
 -   **Client web applications**
 
     A will-producing website and a donation-tracking application.
 
-    [Read report](client-web-applications/)
+    [Learn more](client-web-applications/)
 
 -   **Smash Return**
 
     Android idle-game project in Kotlin.
 
-    [Read report](smash-return/)
+    [Learn more](smash-return/)
 
 -   **ZMM 2.0**
 
     Archived educational C compiler written in Zig.
 
-    [Read report](zmm-2/)
+    [Learn more](zmm-2/)
 
 -   **Dotfiles**
 
     Personal Linux and development-environment configuration.
 
-    [Read report](dotfiles/)
+    [Learn more](dotfiles/)
 
 </div>
