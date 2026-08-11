@@ -23,7 +23,7 @@ hide:
 
 <div class="portfolio-actions" markdown>
 
-[View projects](projects/){ .md-button .md-button--primary }
+[View projects](projects/index.md){ .md-button .md-button--primary }
 [About me](about/){ .md-button }
 [Contact](contact/){ .md-button }
 
@@ -85,4 +85,4 @@ hide:
 
 </div>
 
-[Browse all project reports](projects/){ .md-button }
+[Browse all project reports](projects/index.md){ .md-button }

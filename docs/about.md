@@ -49,4 +49,4 @@ Since December 2022, I have worked as a freelance web developer. This has includ
 - GitHub: [github.com/impascoe](https://github.com/impascoe)
 - Business enquiries: [Pascalax](https://www.pascalax.com/)
 
-[See the project reports](projects/){ .md-button .md-button--primary }
+[See the project reports](projects/index.md){ .md-button .md-button--primary }
